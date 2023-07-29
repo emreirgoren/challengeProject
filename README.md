@@ -22,7 +22,7 @@ Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanıl
 
 3-Bir web sayfasında ekran sürekli Backend’ den veya bir başka yapı tarafından güncelleniyor. Siz, web sayfasını refresh etmeden bu güncel bilgiyi anlık ekrana nasıl yansıtırsınız.
 
---> Websocket : Server ve client arasında bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
+--> Websocket : Server ve client arasında iki yönlü bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
 
 *******************************************************************************************************************************************************************************
 
