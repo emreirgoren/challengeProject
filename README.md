@@ -1,40 +1,41 @@
-# challengeProject
+# Challenge Project
  **Java,SpringBoot**
 
- 1- MVC kavramını açıklar mısınız ? Neden ihtiyaç duyuluyor. Java’da nasıl kurgulanıyor. 
-Object Oriented katmanları nelerdir ?
+ 1- MVC kavramını açıklar mısınız? Neden ihtiyaç duyuluyor. Java’da nasıl kurgulanıyor. Object Oriented katmanları nelerdir?
 
---> Yazılım tasarım desenidir. Yazılımı anlaşılması ve bakımı kolay hale,sürdürülebilir ve modüler hale getirir.
-Object Orianted Katmanları -->
+--> Yazılım tasarım desenidir. Yazılımı anlaşılması ve bakımı kolay hale, sürdürülebilir ve modüler hale getirir.
+Object Oriented Katmanları;
 1.Sınıflar
 2.Nesneler
 3.Kalıtım(İnheritence)
 4.Kapsülleme(Encapsulation)
 5.Polimorfizm(Polymorphism)
 
-//////////////////////////////
+*******************************************************************************************************************************************************************************
 
-2-Birbirinden bağımsız iki platformun birbiriyle haberleşmesi nasıl sağlanabilir. Örneğin, X 
-platformu Java ile yazılmış olsun, Y platform u C# ile. Bu iki platformun bir biri ile iletişim 
-halinde request-response ilişkisi kurması gerekiyor. Bu yapıyı nasıl sağlarız.
+2-Birbirinden bağımsız iki platformun birbiriyle haberleşmesi nasıl sağlanabilir. Örneğin, X platformu Java ile yazılmış olsun, Y platform u C# ile. Bu iki platformun bir biri ile iletişim halinde request-response ilişkisi kurması gerekiyor. Bu yapıyı nasıl sağlarız.
 
---> RESTfull Api (Application Programming Interface) : Platformlar arasında veri alışverişi için kullanılır. Ikı platform arasında iletişim sağlayan arayüz oluşturur.
+--> RESTfull Api (Application Programming Interface) : Platformlar arasında veri alışverişi için kullanılır. İki platform arasında iletişim sağlayan arayüz oluşturur.
 Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanılabilir.
 
-//////////////////////////////
+*******************************************************************************************************************************************************************************
 
-3-Bir web sayfasında ekran sürekli Backend’ den veya bir başka yapı tarafından 
-güncelleniyor. Siz, web sayfasını refresh etmeden bu güncel bilgiyi anlık ekrana nasıl 
-yansıtırsınız.
+3-Bir web sayfasında ekran sürekli Backend’ den veya bir başka yapı tarafından güncelleniyor. Siz, web sayfasını refresh etmeden bu güncel bilgiyi anlık ekrana nasıl yansıtırsınız.
 
 --> Websocket : Server ve client arasında bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
 
-
-//////////////////////////////
+*******************************************************************************************************************************************************************************
 
 4-Bir for döngüsü ile aşağıdaki çıktıyı yazar mısınız.
 
---> Asteriks Pattern
+*
+**
+****
+******
+********
+**********
+
+--> Asteriks Pattern. Kod örneğini 
 
 //////////////////////////////
 
