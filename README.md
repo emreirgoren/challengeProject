@@ -63,7 +63,7 @@ scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
 **Create**
 
-![employee-create](https://github.com/emreirgoren/challengeProject/assets/131880110/5e79bd1e-da96-4df2-85ac-81bdfd360caa)
+![employee-create](https://github.com/emreirgoren/challengeProject/assets/131880110/7278a078-c199-4b7f-a981-9cfd5a5fd9b5)
 
 
 **Get All**
