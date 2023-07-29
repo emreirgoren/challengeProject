@@ -56,7 +56,27 @@ scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
 --> Kod örneğini **"Crud Operations"** klasörü içinde bulabilirsiniz.
 
+**Delete**
+
 ![employe-delete](https://github.com/emreirgoren/challengeProject/assets/131880110/2501f38f-359d-49b2-a264-a2bb6c8941de)
+
+
+**Create**
+
+![employee-create](https://github.com/emreirgoren/challengeProject/assets/131880110/5e79bd1e-da96-4df2-85ac-81bdfd360caa)
+
+
+**Get All**
+
+![employee-getAll](https://github.com/emreirgoren/challengeProject/assets/131880110/099f9e66-d12b-43d6-9ce6-46ca318dd63c)
+
+**Get Employee**
+
+![employee-getEmployee](https://github.com/emreirgoren/challengeProject/assets/131880110/e048d63c-ebf1-499e-9623-14dec3f355c3)
+
+**Update**
+
+![employee-update](https://github.com/emreirgoren/challengeProject/assets/131880110/10697c89-1868-449c-b4db-4bf922fa3b70)
 
 
 *********************************************************************************************************************************************************************************
