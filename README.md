@@ -83,5 +83,5 @@ düşünelim. Alanın ismi “updatedAt” long tipinde tutulan bir alan. Ben 20
 sonraki verileri getir dediğimde solr a nasıl bir query yazılmalı. http://example?query=
 kısmını nasıl doldurmalıyım?
 
--->
+--> http://example?query=updateAt:[2020-01-01T00:00:00Z TO * ]
 
