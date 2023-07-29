@@ -12,7 +12,7 @@ Object Orianted Katmanları -->
 4.Kapsülleme(Encapsulation)
 5.Polimorfizm(Polymorphism)
 
-/////////////////////
+//////////////////////////////
 
 2-Birbirinden bağımsız iki platformun birbiriyle haberleşmesi nasıl sağlanabilir. Örneğin, X 
 platformu Java ile yazılmış olsun, Y platform u C# ile. Bu iki platformun bir biri ile iletişim 
@@ -21,7 +21,7 @@ halinde request-response ilişkisi kurması gerekiyor. Bu yapıyı nasıl sağla
 --> RESTfull Api (Application Programming Interface) : Platformlar arasında veri alışverişi için kullanılır. Ikı platform arasında iletişim sağlayan arayüz oluşturur.
 Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanılabilir.
 
-/////////////////////
+//////////////////////////////
 
 3-Bir web sayfasında ekran sürekli Backend’ den veya bir başka yapı tarafından 
 güncelleniyor. Siz, web sayfasını refresh etmeden bu güncel bilgiyi anlık ekrana nasıl 
@@ -30,19 +30,13 @@ yansıtırsınız.
 --> Websocket : Server ve client arasında bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
 
 
-////////////////////////////////
+//////////////////////////////
 
 4-Bir for döngüsü ile aşağıdaki çıktıyı yazar mısınız.
-*
-**
-****
-******
-********
-**********
 
 --> Asteriks Pattern
 
-
+//////////////////////////////
 
 5- Firmada çalışman için sana remote bir linux server verildi. Elinde ip adresi port bilgisi 
 kullanıcı adi ve şifren var. Server a erişimi nasıl test edersin, Server a nasıl erişirsin, Server a 
@@ -59,7 +53,7 @@ Server'dan dosya çekmek
 
 scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
-/////////////////////////////////////
+//////////////////////////////
 
 6- Local database kurulumu (mysql, postgresql veya herhangi bir database)
 - Java spring uygulaması ayağa kaldırılması,
