@@ -56,6 +56,9 @@ scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
 --> Kod örneğini **"Crud Operations"** klasörü içinde bulabilirsiniz.
 
+![employe-delete](https://github.com/emreirgoren/challengeProject/assets/131880110/2501f38f-359d-49b2-a264-a2bb6c8941de)
+
+
 *********************************************************************************************************************************************************************************
 
 7- Apache Solr servisine yazılacak bir query örneği Apache Solr kullanılan sql 
