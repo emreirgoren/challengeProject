@@ -22,26 +22,18 @@ Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanıl
 
 3-Bir web sayfasında ekran sürekli Backend’ den veya bir başka yapı tarafından güncelleniyor. Siz, web sayfasını refresh etmeden bu güncel bilgiyi anlık ekrana nasıl yansıtırsınız.
 
---> Websocket : Server ve client arasında bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
+--> Websocket : Server ve client arasında iki yönlü bağlantı kurarak, taraflardan biri bağlantıyı sonlandırana kadar sürekli veri akışı sağlar.
 
 *******************************************************************************************************************************************************************************
 
 4-Bir for döngüsü ile aşağıdaki çıktıyı yazar mısınız.
 
-*
-**
-****
-******
-********
-**********
 
---> Asteriks Pattern. Kod örneğini 
+--> Asteriks Pattern. Kod örneğini **"Star Pattern"** klasörü içinde bulabilirsiniz.
 
-//////////////////////////////
+*********************************************************************************************************************************************************************************
 
-5- Firmada çalışman için sana remote bir linux server verildi. Elinde ip adresi port bilgisi 
-kullanıcı adi ve şifren var. Server a erişimi nasıl test edersin, Server a nasıl erişirsin, Server a 
-nasıl dosya atarsın, Serverdan nasıl dosya çekersin
+5- Firmada çalışman için sana remote bir linux server verildi. Elinde ip adresi port bilgisi kullanıcı adi ve şifren var. Server a erişimi nasıl test edersin, Server a nasıl erişirsin, Server a nasıl dosya atarsın, Serverdan nasıl dosya çekersin.
 
 --> ssh userName@hostName(ipadres) -p portno seklinde girilir. burada -p port numarasının girilecegini belirtir.
 Sunucu burda şifre istediginde şifreyi girerim.Boylece erişim sağlanır.
@@ -54,23 +46,40 @@ Server'dan dosya çekmek
 
 scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
-//////////////////////////////
+**********************************************************************************************************************************************************************************
 
 6- Local database kurulumu (mysql, postgresql veya herhangi bir database)
 - Java spring uygulaması ayağa kaldırılması,
-- İki adet tablo yer alamalı ve bu tabloların birbirleriyle bağı olmalıdır. (Örn: şirket ve çalışan 
-gibi),
-- Java spring uygulamasında ekleme,silme,güncelleme,listeleme gibi servisler yer almalıdır ve 
-responseda yapılan işlem detayı return edilmelidir.
-- Ekleme,silme,güncelleme,listeleme işlemlerini postman vb ile işlem yapılabilmelidir.
-Bu adımlar sırasıyla izlenip java uygulaması üzerinden database’ e kayıt atılmalı (Herhangi 
-bir kayıt olabilir fark etmez. Database'de bir tablo açılıp o tabloya değer girilmesi java isteği 
-üzerinden). Daha sonra aynı istek atılan uygulama ile (örnek postman ...) get ve list java 
-spring endpointleri çağırılarak, database e atılan kayıt response olarak dönülmeli.
+- İki adet tablo yer alamalı ve bu tabloların birbirleriyle bağı olmalıdır. (Örn: şirket ve çalışan gibi),
+- Java spring uygulamasında ekleme,silme,güncelleme,listeleme gibi servisler yer almalıdır ve responseda yapılan işlem detayı return edilmelidir.
+- Ekleme,silme,güncelleme,listeleme işlemlerini postman vb ile işlem yapılabilmelidir
 
--->
+--> Kod örneğini **"Crud Operations"** klasörü içinde bulabilirsiniz.
 
-//////////////////////////////
+**Delete**
+
+![employe-delete](https://github.com/emreirgoren/challengeProject/assets/131880110/2501f38f-359d-49b2-a264-a2bb6c8941de)
+
+
+**Create**
+
+![employee-create](https://github.com/emreirgoren/challengeProject/assets/131880110/5e79bd1e-da96-4df2-85ac-81bdfd360caa)
+
+
+**Get All**
+
+![employee-getAll](https://github.com/emreirgoren/challengeProject/assets/131880110/099f9e66-d12b-43d6-9ce6-46ca318dd63c)
+
+**Get Employee**
+
+![employee-getEmployee](https://github.com/emreirgoren/challengeProject/assets/131880110/e048d63c-ebf1-499e-9623-14dec3f355c3)
+
+**Update**
+
+![employee-update](https://github.com/emreirgoren/challengeProject/assets/131880110/10697c89-1868-449c-b4db-4bf922fa3b70)
+
+
+*********************************************************************************************************************************************************************************
 
 7- Apache Solr servisine yazılacak bir query örneği Apache Solr kullanılan sql 
 programlarından daha farklı runtime bir database. Solr a hali hazırda kayıtlı bir alan olduğunu 
