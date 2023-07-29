@@ -58,7 +58,7 @@ scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
 **Delete**
 
-[![employe-delete](https://github.com/emreirgoren/challengeProject/assets/131880110/2501f38f-359d-49b2-a264-a2bb6c8941de)](https://github.com/emreirgoren/challengeProject/blob/main/Images/employe-delete.png)
+![employe-delete](https://github.com/emreirgoren/challengeProject/assets/131880110/e963f033-e197-4e3f-b6a7-6a7cdef99cf3)
 
 
 **Create**
