@@ -28,14 +28,8 @@ Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanıl
 
 4-Bir for döngüsü ile aşağıdaki çıktıyı yazar mısınız.
 
-*
-* *
-* * * *
-* * * * * *
-* * * * * * * *
-* * * * * * * * * *
 
---> Asteriks Pattern. Kod örneğini "Star Pattern" klasörü içinde bulabilirsiniz.
+--> Asteriks Pattern. Kod örneğini **"Star Pattern"** klasörü içinde bulabilirsiniz.
 
 *********************************************************************************************************************************************************************************
 
