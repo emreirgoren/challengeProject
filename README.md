@@ -54,7 +54,7 @@ scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 - Java spring uygulamasında ekleme,silme,güncelleme,listeleme gibi servisler yer almalıdır ve responseda yapılan işlem detayı return edilmelidir.
 - Ekleme,silme,güncelleme,listeleme işlemlerini postman vb ile işlem yapılabilmelidir
 
--->
+--> Kod örneğini **"Crud Operations"** klasörü içinde bulabilirsiniz.
 
 *********************************************************************************************************************************************************************************
 
