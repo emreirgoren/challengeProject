@@ -18,7 +18,8 @@ Object Orianted Katmanları -->
 platformu Java ile yazılmış olsun, Y platform u C# ile. Bu iki platformun bir biri ile iletişim 
 halinde request-response ilişkisi kurması gerekiyor. Bu yapıyı nasıl sağlarız.
 
---> RESTfull Api : platformlar arasında veri alışverişi için kullanılır.
+--> RESTfull Api (Application Programming Interface) : Platformlar arasında veri alışverişi için kullanılır. Ikı platform arasında iletişim sağlayan arayüz oluşturur.
+Platformdan bağımsız olarak iletişim sağlanması için bu arayüz kullanılabilir.
 
 /////////////////////
 
@@ -47,7 +48,16 @@ yansıtırsınız.
 kullanıcı adi ve şifren var. Server a erişimi nasıl test edersin, Server a nasıl erişirsin, Server a 
 nasıl dosya atarsın, Serverdan nasıl dosya çekersin
 
--->
+--> ssh userName@hostName(ipadres) -p portno seklinde girilir. burada -p port numarasının girilecegini belirtir.
+Sunucu burda şifre istediginde şifreyi girerim.Boylece erişim sağlanır.
+
+Server'a dosya atma
+
+scp yerelpcdosyadizin userName@hostName(ipadres): sunucu/dosyadizini/ 
+
+Server'dan dosya çekmek
+
+scp userName@hostName(ipadress):sunucudosyadizini/dosyaAdi yerelPcDosyaDizini/
 
 /////////////////////////////////////
 
